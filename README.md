@@ -1,7 +1,7 @@
 - Hi, I’m @cliff-lewis
 - I’m interested in data science and data analytics, and I'm creating this to hopefully be able to share my portfolio with all of you who stop by.
-- I've just finished up a Google Advanced Data Analytics course and I'm bringing over my project from there. It has given me a ton of insights to more advanced analytics techniques
-  as well as machine learning methods, and it was fun to see some of the statistics that I learned at Arizona State be computed instantly in Python.
+- I've just finished up a Google Advanced Data Analytics course and I'm bringing over my project from there. It has given me tons of insights to more advanced analytics techniques
+  as well as classic machine learning methods, and it was fun to see some of the statistics that I learned at Arizona State be computed instantly in Python.
 - You can reach me at cliffclewis@gmail.com
 
 <!---
